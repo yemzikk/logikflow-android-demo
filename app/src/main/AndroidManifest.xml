@@ -20,5 +20,10 @@
 			android:name=".ui.detail.RecipeDetailActivity"
 			android:exported="false"
 			android:parentActivityName=".ui.list.MainActivity" />
+
+		<activity
+			android:name=".ui.favorites.FavoritesActivity"
+			android:exported="false"
+			android:parentActivityName=".ui.list.MainActivity" />
 	</application>
 </manifest>
