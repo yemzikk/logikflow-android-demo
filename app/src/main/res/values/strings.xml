@@ -3,4 +3,8 @@
 	<string name="recipe_minutes">%1$d min</string>
 	<string name="recipe_ingredients">Ingredients</string>
 	<string name="recipe_steps">Steps</string>
+	<string name="favorites_title">Favorites</string>
+	<string name="favorites_empty">No favorites yet. Open a recipe and tap Save to favorites.</string>
+	<string name="favorite_add">Save to favorites</string>
+	<string name="favorite_remove">Saved</string>
 </resources>
